@@ -7,7 +7,7 @@
 A script to backup the home directory of users.<br>
 The backup files will be created to the path <code>/var/backups/Username/</code><br>
 With name <code>Username_home_YYYYmmdd.tar.gz</code><br>
-E.g. : <code>Lomasi_home_20190530.tar.gz</code>
+E.g. : <code>Olga_home_20190530.tar.gz</code>
 
 ## The flow of the script
 
